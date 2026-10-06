@@ -3,8 +3,6 @@
 #include <stdio.h>
 #include <string.h>
 
-static int count = 0;
-
 int addBook(Book *replace)
 {
     

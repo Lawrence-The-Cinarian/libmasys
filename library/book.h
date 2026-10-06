@@ -5,6 +5,7 @@
 #define AUTHOR 50
 #define ID 20
 
+static int count = 0;
 typedef struct
 {
     char id[ID];

@@ -38,7 +38,7 @@ void welcomeMessageForMemberSection()
     puts("(3) Borrow Book");
     puts("(4) Return Book");
     puts("(5) Search Book");
-    puts("(6) List Book");
+    puts("(6) List Books");
     puts("(0) Exit");
     puts("");
 }

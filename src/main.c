@@ -76,6 +76,7 @@ int main(void)
                 break;
             
                 case 3:
+                borrowBook(&registers, registerd);
                 break;
             
                 case 4:
