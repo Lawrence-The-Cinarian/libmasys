@@ -1,11 +1,16 @@
 #ifndef MEMBER_H
 #define MEMBER_H
+#define MEMBER_ID 20
+#define MEMBER_NAME 50
+#define MEMBER_BORROW_LIMIT 15
 
 typedef struct
 {
-    char id[20];
-    char name[50];
-    char borrowedb[];
+    char id[MEMBER_ID];
+    char name[MEMBER_NAME];
 } Member;
+
+int addMember(Member *replace);
+int listMember(Member*replace);
 
 #endif

@@ -1,20 +1,28 @@
-Jungle of doom
- Lawrence Bartelz
- 124227
- 2
-Mission Impossible v3
- Carlos Germani
- 654899
- 2
-Baby Danil
- Chimney Crayann
- 24589
- 76
-Engineering Maths
- Dr. Ogwuike
- 25744
- 5
-Engineering Thermodynamics
- Dr. Ogwuike
- 46768
- 5
+Mongolia
+|Chimplai Eranda
+|57854
+|90
+The fishers nets
+|Dr. O.C.I Ogwuike
+|87578
+|76
+New General Mathematics
+|J.B Channon, A.M Smith
+|2552662
+|105
+Senior Secondary Physics
+|P.N Okeke, F.N Okoro
+|6779543
+|65
+Calculus
+|James Stewart
+|9747331
+|71
+Animal Farm
+|George Orwell
+|5774344
+|43
+Understanding Chemistry
+|G.O.Ojokuku
+|8600852
+|89

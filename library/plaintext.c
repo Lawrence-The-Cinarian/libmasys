@@ -22,6 +22,7 @@ void welcomeMessageForBookSection()
     puts("(2) List books");
     puts("(3) Search by title");
     puts("(4) Delete Book");
+    puts("(5) View Available books amd its copies");
     puts("(0) Exit");
     puts("");
 }
@@ -33,10 +34,11 @@ void welcomeMessageForMemberSection()
     puts("Welcome to the Member Section");
     puts("Please enter in the number of your option below");
     puts("(1) Add Member");
-    puts("(2) Borrow Book");
-    puts("(3) Return Book");
-    puts("(4) Search Book");
-    puts("(5) List Book");
+    puts("(2) View Member");
+    puts("(3) Borrow Book");
+    puts("(4) Return Book");
+    puts("(5) Search Book");
+    puts("(6) List Book");
     puts("(0) Exit");
     puts("");
 }

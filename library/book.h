@@ -14,7 +14,9 @@ typedef struct
     int avcopies; //Available copies
 } Book;
 
-int flush();
 int addBook(Book *replace);
-
+int listBooks(Book *replace);
+int searchByTitle(Book *replace);
+int deleteBook(Book *replace);
+int availableBooksC(Book *replace);
 #endif

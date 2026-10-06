@@ -8,6 +8,7 @@
 int main(void)
 {
     Book registerd[MAX_BOOKS];
+    Member registers;
     int option = 0;
     char symbol = '\0';
     
@@ -33,14 +34,21 @@ int main(void)
                 break;
             
                 case 2:
+                listBooks(registerd);
                 break;
             
                 case 3:
+                searchByTitle(registerd);
                 break;
             
                 case 4:
+                deleteBook(registerd);
                 break;
             
+                case 5:
+                availableBooksC(registerd);
+                break;
+                
                 case 0:
                 return 0;
             
@@ -60,10 +68,11 @@ int main(void)
             switch(option)
             {
                 case 1:
-                addBook(registerd);
+                addMember(&registers);
                 break;
             
                 case 2:
+                listMember(&registers);
                 break;
             
                 case 3:
